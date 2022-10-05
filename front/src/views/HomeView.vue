@@ -84,9 +84,9 @@ We can work off of our own photography or photos you provide.`,
 <style scoped>
 section {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 30rem), 1fr));
   grid-auto-flow: dense;
-  gap: 1rem;
+  gap: 2.6rem;
 }
 
 .buttom {
@@ -107,7 +107,7 @@ button {
 }
 
 header {
-  margin-top: 3rem;
+  margin-top: 4rem;
 }
 
 h1 {
@@ -116,6 +116,7 @@ h1 {
   font-style: normal;
   font-weight: 700;
   letter-spacing: -0.01rem;
+  font-size: 3.7rem;
 }
 
 h1 span {

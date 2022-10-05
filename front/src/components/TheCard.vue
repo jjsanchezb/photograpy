@@ -39,11 +39,13 @@ h2 {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
+  font-size: 1.6rem;
 }
 .card {
   border-radius: 8px;
   display: flex;
   font-family: "Nunito Sans";
+  font-size: 1rem;
 }
 .card .left {
   width: 100%;

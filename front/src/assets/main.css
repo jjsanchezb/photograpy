@@ -3,3 +3,7 @@ body {
   margin-right: 3rem;
   background: #e5e5e5;
 }
+
+html {
+  font-size: 15px;
+}
