@@ -27,7 +27,9 @@ defineProps({
           {{ characteristic }}
         </li>
       </ul>
-      <p>{{ photography.description }}</p>
+      <p :key="line" v-for="line in photography.description.split('\n')">
+        {{ line }}
+      </p>
     </div>
   </div>
 </template>
