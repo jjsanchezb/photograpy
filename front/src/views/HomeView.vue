@@ -14,7 +14,6 @@ const photographys = [
     id: 1,
   },
   {
-    characteristics: ["char1", "char1"],
     title: "Virtual Staging",
     description: `Our staging will help you sell the potential of your space.
 We can work off of our own photography or photos you provide.`,
