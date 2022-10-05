@@ -86,7 +86,7 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
   grid-auto-flow: dense;
-  gap: 1em;
+  gap: 1rem;
 }
 
 .buttom {
@@ -103,11 +103,11 @@ button {
   font-style: normal;
   font-weight: 700;
   border: none;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.2rem;
 }
 
 header {
-  margin-top: 3em;
+  margin-top: 3rem;
 }
 
 h1 {
@@ -115,7 +115,7 @@ h1 {
   text-align: center;
   font-style: normal;
   font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.01rem;
 }
 
 h1 span {
