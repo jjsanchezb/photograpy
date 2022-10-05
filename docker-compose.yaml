@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  web:
+    image: node:18.10.0-bullseye
+    volumes:
+      - .:/workspace
+    ports:
+      - "8080:8080"
+    working_dir: /workspace
+    command: >
+      sleep infinity
