@@ -11,14 +11,17 @@ const photographys: Array<Photography> = [
     title: "Photography",
     description:
       "Every photograph we produce finds the beauty in your property while serving as a profitable asset.",
-    images: ["/img/photo1.png", "/img/photo2.png"],
+    images: [
+      "/img/photograpy/photograpy/photo1.png",
+      "/img/photograpy/photograpy/photo2.png",
+    ],
     id: 1,
   },
   {
     title: "Virtual Staging",
     description: `Our staging will help you sell the potential of your space.
 We can work off of our own photography or photos you provide.`,
-    images: ["/img/photo4.png"],
+    images: ["/img/photograpy/photograpy/photo4.png"],
     id: 2,
   },
   {
@@ -26,7 +29,7 @@ We can work off of our own photography or photos you provide.`,
     title: "Renderings",
     description:
       "Renderings are the gold standard in pre-construction marketing.",
-    images: ["/img/photo7.png"],
+    images: ["/img/photograpy/photograpy/photo7.png"],
     id: 3,
   },
   {
@@ -34,7 +37,7 @@ We can work off of our own photography or photos you provide.`,
     title: "Interactive Tours",
     description:
       "Give your audience the ability to explore your property without requiring in-person travel.",
-    images: ["/img/photo3.png"],
+    images: ["/img/photograpy/photograpy/photo3.png"],
     id: 4,
   },
   {
@@ -42,7 +45,7 @@ We can work off of our own photography or photos you provide.`,
     title: "Floor Plans",
     description:
       "We produce laser-precise floor plans faster than any other service.",
-    images: ["/img/photo5.png"],
+    images: ["/img/photograpy/photograpy/photo5.png"],
     id: 5,
   },
   {
@@ -54,7 +57,7 @@ We can work off of our own photography or photos you provide.`,
     title: "Video",
     description:
       "Video content has higher engagement and will help your property stand out online.",
-    images: ["/img/photo6.png"],
+    images: ["/img/photograpy/photograpy/photo6.png"],
     id: 6,
   },
 ];
