@@ -1,6 +1,7 @@
 <script setup lang="ts">
+import type { Photography } from "@/photography";
 import TheCard from "../components/TheCard.vue";
-const photographys = [
+const photographys: Array<Photography> = [
   {
     characteristics: [
       "Drone Photography ",
